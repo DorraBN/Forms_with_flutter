@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Texte alternatif](./assets/y.png)
+![Texte alternatif](./assets/v.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
